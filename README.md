@@ -1,2 +1,5 @@
-# Projeto-de-previsao-com-machine-lerning
-Aplicação de análise preditiva desenvolvida em Python para prever o score de crédito de clientes a partir da análise de dados bancários. O projeto utiliza tratamento de dados, visualizações gráficas e técnicas de aprendizado de máquina para identificar padrões e auxiliar na tomada de decisões financeiras.
+# Projeto de previsao com machine lerning
+Este projeto foi desenvolvido com foco em Inteligência Artificial e análise preditiva aplicada ao contexto bancário. A aplicação tem como objetivo analisar informações de clientes para identificar padrões e criar um modelo capaz de prever o score de crédito de novos usuários. A partir da análise dos dados, o sistema auxilia na tomada de decisões relacionadas à concessão de crédito, utilizando técnicas de tratamento de dados, análise exploratória e aprendizado de máquina para gerar previsões mais precisas e eficientes.
+
+# Stacks utilizadas
+O projeto foi desenvolvido utilizando a linguagem Python e executado no ambiente Jupyter Notebook. Foram utilizadas bibliotecas do ecossistema Python voltadas para análise de dados, manipulação de informações e suporte ao ambiente interativo. A biblioteca pandas foi utilizada para tratamento e manipulação dos dados, enquanto openpyxl auxiliou na leitura e manipulação de arquivos Excel. O funcionamento do ambiente interativo contou com ipykernel e nbformat, responsáveis pela execução e estruturação dos notebooks. Além disso, a biblioteca Plotly foi utilizada para criação de gráficos e visualizações interativas dos dados analisados.
