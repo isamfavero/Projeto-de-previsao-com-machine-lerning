@@ -1,4 +1,4 @@
-# Projeto de previsao com machine lerning
+# Projeto de previsão com machine lerning
 Este projeto foi desenvolvido com foco em Inteligência Artificial e análise preditiva aplicada ao contexto bancário. A aplicação tem como objetivo analisar informações de clientes para identificar padrões e criar um modelo capaz de prever o score de crédito de novos usuários. A partir da análise dos dados, o sistema auxilia na tomada de decisões relacionadas à concessão de crédito, utilizando técnicas de tratamento de dados, análise exploratória e aprendizado de máquina para gerar previsões mais precisas e eficientes.
 
 # Stacks utilizadas
